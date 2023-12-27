@@ -1,0 +1,7 @@
+Turbidity sensor
+
+Needed:
+1. battery so it can run even at night
+2. charge control unit for safe charging of battery
+3. powered by solar panel
+4. MCU is ATmega328PB
